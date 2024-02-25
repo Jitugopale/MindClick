@@ -1,0 +1,1 @@
+ret, frame = cap.read()
